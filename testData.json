@@ -1,0 +1,182 @@
+[
+  {
+    "id": "Pos_Fun_0001",
+    "input": "Apita meaka karanna bae.",
+    "expected": "අපිට මේක කරන්න බැ."
+  },
+  {
+    "id": "Pos_Fun_0002",
+    "input": "Mata kello 5k innavaa.",
+    "expected": "මට කෙල්ලො 5ක් ඉන්නවා."
+  },
+  {
+    "id": "Pos_Fun_0003",
+    "input": "Mata vathura  ekak dhenna.",
+    "expected": "මට වතුර එකක් දෙන්න."
+  },
+  {
+    "id": "Pos_Fun_0004",
+    "input": "Machan, pissu kelinna epaa. kellek nisaa ochchara thamange nambuva naethi karaganna epaa. Uba hodha ekaa ban, api hitha hadhaagamu. Api innavaane machan. kohoma hari uba hodhata igena ganna onee. Enna yaman.",
+    "expected": "මචන්, පිස්සු කෙලින්න එපා. කෙල්ලෙක් නිසා ඔච්චර තමන්ගෙ නම්බුව නැති කරගන්න එපා. උබ හොද එකා බන්, අපි හිත හදාගමු. අපි ඉන්නවානෙ මචන්. කොහොම හරි උබ හොදට ඉගෙන ගන්න ඔනේ. එන්න යමන්."
+  },
+  {
+    "id": "Pos_Fun_0005",
+    "input": "Meka balanna machan, ape aluth project  PR eka dhenna kiyala Lead kiyanavaa. ASAP review karala mata feedback dhenna puluvandha? Ethakota apita deadline ekata kalin deploy karaganna puluvan veevi kiyala mama hithanavaa ban.",
+    "expected": "මෙක බලන්න මචන්, ape අලුත් project PR එක දෙන්න කියල Lead කියනවා. ASAP review කරල මට feedback දෙන්න පුලුවන්ද? එතකොට අපිට deadline එකට කලින් deploy කරගන්න පුලුවන් වේවි කියල මම හිතනවා බන්."
+  },
+  {
+    "id": "Pos_Fun_0006",
+    "input": "Oba saavoma hata saadharaniiya arayumaki !",
+    "expected": "ඔබ සාවොම හට සාදරනීය අරයුමකි !"
+  },
+  {
+    "id": "Pos_Fun_0007",
+    "input": "Aa hari, heta enna vaede karalaa dhennam.",
+    "expected": "ආ හරි, හෙට එන්න වැඩෙ කරලා දෙන්නම්."
+  },
+  {
+    "id": "Pos_Fun_0008",
+    "input": "Adha udhee karapu vade ivarayi machan. Mama okkoma files tika upload kalaa, oyaa eka poddak balanna. Heta thava meeting ekak thiyenava kiyalaa Lead kivvaa, e nisa uba velaavatama enna balapan. Api okkoma ekathu velaa mea project eka hodhata ivara karamu.",
+    "expected": "අද උදේ කරපු වඩෙ ඉවරයි මචන්. මම ඔක්කොම files ටික upload කලා, ඔයා එක පොඩ්ඩක් බලන්න. හෙට තව meeting එකක් තියෙනව කියලා Lead කිව්වා, එ නිස උබ වෙලාවටම එන්න බලපන්. අපි ඔක්කොම එකතු වෙලා මේ project එක හොදට ඉවර කරමු."
+  },
+  {
+    "id": "Pos_Fun_0009",
+    "input": "puthea, 5kg haal goniyak aran enneko.",
+    "expected": "පුතේ, 5kg හාල් ගොනියක් අරන් එන්නෙකො."
+  },
+   {
+    "id": "Pos_Fun_0010",
+    "input": "Eyaa iiyea aavaa kivvaa.Oyath Aavadha?",
+    "expected": "එයා ඊයේ ආවා කිව්වා.ඔයත් ආවද?"
+  },
+  {
+    "id": "Pos_Fun_0011",
+    "input": "Linkedin haemadhaama update karalaa balanna",
+    "expected": "Linkedin හැමදාම update කරලා බලන්න"
+  },
+  {
+    "id": "Pos_Fun_0012",
+    "input": "Adha raeeta zoom meeting ekak dhaagamu machan. Ape ITPM project final report eka gaena katha karanna onee. Oyaa okkoma documents tika ready karalaa thiyaaganna. velaava set unaama mata message ekak dhaanna, api vaedee ikmanata ivara karamu.",
+    "expected": "අද රෑට zoom meeting එකක් දාගමු මචන්. Ape ITPM project final report එක ගැන කත කරන්න ඔනේ. ඔයා ඔක්කොම documents ටික ready කරලා තියාගන්න. වෙලාව සෙට් උනාම  මට message එකක් දාන්න, අපි වැඩේ ඉක්මනට ඉවර කරමු."
+  },
+  {
+    "id": "Pos_Fun_0013",
+    "input": "Mama iiyea gedhara giyaa.",
+    "expected": "මම ඊයේ ගෙදර ගියා."
+  },
+  {
+    "id": "Pos_Fun_0014",
+    "input": "Eyaalath api ekka enavaa.",
+    "expected": "එයාලත් අපි එක්ක එනවා."
+  },
+  {
+    "id": "Pos_Fun_0015",
+    "input": "Mea code eka debug karala git hub ekata push karanna.",
+    "expected": "මේ code එක debug කරල git hub එකට push කරන්න."
+  },
+  {
+    "id": "Pos_Fun_0016",
+    "input": "Mama yanavaa eth uba enna oonee.",
+    "expected": "මම යනවා එත් උබ එන්න ඕනේ."
+  },
+  {
+    "id": "Pos_Fun_0017",
+    "input": "Heta (10.02.2026) udhaeesana 7.00 sita chandhaya pala kirimata varthaa karanna. Oba paemiNena vita obee haedhunumpatha raegena pamiNenna. nathahoth chandhaya pala kirimata nohaeki vanu aetha. Obage sahaya api balaaporoththu vannemu. Sthuthi !",
+    "expected": "හෙට (10.02.2026) උදෑසන 7.00 සිට චන්දය පල කිරිමට වර්තා කරන්න. ඔබ පැමිණෙන විට ඔබේ හැදුනුම්පත රැගෙන පමිණෙන්න. නතහොත් චන්දය පල කිරිමට නොහැකි වනු ඇත. ඔබගෙ සහය අපි බලාපොරොත්තු වන්නෙමු. ස්තුති !"
+  },
+  {
+    "id": "Pos_Fun_0018",
+    "input": "karuNaakara oyaage CV eka evanna.",
+    "expected": "කරුණාකර ඔයාගෙ CV එක එවන්න."
+  },
+   {
+    "id": "Pos_Fun_0019",
+    "input": "poth tika ganna.E tika bag ekata dhaanna.",
+    "expected": "පොත් ටික ගන්න.එ ටික bag එකට දාන්න."
+  },
+  {
+    "id": "Pos_Fun_0020",
+    "input": "Oyaa Galle Face ekata enavadha?",
+    "expected": "ඔයා Galle Face එකට එනවද?"
+  },
+  {
+    "id": "Pos_Fun_0021",
+    "input": "Server eka restart kalaa, dhaen check karanna.",
+    "expected": "Server එක restart කලා, දැන් check කරන්න."
+  },
+  {
+    "id": "Pos_Fun_0022",
+    "input": "labana avurudhdhe may vedhdhi degree eka ivarayi.",
+    "expected": "ලබන අවුරුද්දෙ may වෙද්දි degree එක ඉවරයි."
+  },
+  {
+    "id": "Pos_Fun_0023",
+    "input": "Oya mata pothak aran dhenavadha?",
+    "expected": "ඔය මට පොතක් අරන් දෙනවද?"
+  },
+  {
+    "id": "Pos_Fun_0024",
+    "input": "Oyaa hodhata igena gaththoth oyava mama tour ekak geniyannam, haebaeyi hodhata pass une naeththan sorry thamayi. Heta idhan hariyata kaala satahanakata anuva paadam karanna. ethakota oyata puluvan haema exam ekakma pass venna.",
+    "expected": "ඔයා හොදට ඉගෙන ගත්තොත් ඔයව මම tour එකක් ගෙනියන්නම්, හැබැයි හොදට pass උනෙ නැත්තන් sorry තමයි. හෙට ඉදන් හරියට කාල සටහනකට අනුව පාඩම් කරන්න. එතකොට ඔයට පුලුවන් හැම exam එකක්ම pass වෙන්න."
+  },
+  {
+    "id": "Neg_Fun_0001",
+    "input": "machan heta bike eka chuttak genichchata kmk nadda?",
+    "expected": "මචන් හෙට bike එක චුට්ටක් ගෙනිච්චට කමක් නැද්ද?"
+  },
+   {
+    "id": "Neg_Fun_0002",
+    "input": "Siyaluma dena heta rasweemata sahabaghi viya yuthuya. Nopaminennenam karunakara paudhgalika dhanumdheemak kirima apa ayathanaya balaporoththu vea.",
+    "expected": "සියලුම දෙනා හෙට රැස්වීමට සහභාගී විය යුතුය. නොපැමිණෙන්නේනම් කරුණාකර පෞද්ගලික දැනුම්දීමක් කිරීම අප ආයතනය බලාපොරොත්තු වේ."
+  },
+  {
+    "id": "Neg_Fun_0003",
+    "input": "Rs.5000k dhunnoth mn oyata interest eka vidhihata, maasa dhekak athulatha Rs.500k dhennam kiyela mn promise wenewa. Habayi bank eken loan eka approve unoth vitharayi mage yaluve, natham mata salli dhenna godak amarui machan.",
+    "expected": "Rs.5000ක් දුන්නොත් මන් ඔයාට interest එක විදිහට, මාස දෙකක් ඇතුළත Rs.500ක් දෙන්නම් කියල මන් promise වෙනවා, හැබැයි bank එකෙන් loan එක approve වුනොත් විතරයි මගේ යාළුවේ, නැත්නම් මට සල්ලි දෙන්න ගොඩක් අමාරුයි මචන්."
+  },
+   {
+    "id": "Neg_Fun_0004",
+    "input": "Hodama yeduma! Rupiyal 10 000 dakva! Pariksa karanna.",
+    "expected": "හොඳම යෙදුම! රුපියල් 10 000 දක්වා! පරීක්ෂා කරන්න."
+  },
+   {
+    "id": "Neg_Fun_0005",
+    "input": "Aioo case neh ehenam, wadak na neh ehema",
+    "expected": "අයියෝ case නෙහ් එහෙනම්, වැඩක් නෑ නෙහ් එහෙම"
+  },
+   {
+    "id": "Neg_Fun_0006",
+    "input": "amma adamonada kannathiyenne",
+    "expected": "අම්මා අද මොනවාද කන්න තියෙන්නේ"
+  },
+   {
+    "id": "Neg_Fun_0007",
+    "input": "Pauranika sthana raka ganeema siyalu denaage wagakeemaki. Karunaka eyata sahayawanna.",
+    "expected": "පෞරාණික ස්ථාන රැක ගැනීම සියලු දෙනාගේ වගකීමකි. කරුණාකර එයට සහයවන්න."
+  },
+   {
+    "id": "Neg_Fun_0008",
+    "input": "Mema nawa wyaparika prathipaththiya anuwa, siyalu sewayaka mahathungay nidahas niwadu kala seemawakata lakkara atha. Esayae natham adha dhenaya thuladi obage palamu waryaya pilibadha wisthara sathyapana kireema aniwarya wunath eyata thama thirana labee natha.",
+    "expected": "මම නැවුම් ව්‍යාපාරික ප්ර්තිපත්තිය අනුව, සියලු සේවක මහතුන්ගෙ නිදහස් නිවාඩු කාල සීමාවකට ලක්කර ඇත. එසයෙ නතම් අඩ දනය තුලඩි ඔබගෙ පලමු වාරය පිලිබඩ විස්තර සත්‍යාපනය කිරිම අනිවාර්ය වුනත් එයට තාම තීරණ ලැබී නැත"
+  },
+  {
+    "id": "Neg_Fun_0009",
+    "input": "Oya Meegamuwen Naginna.",
+    "expected": "ඔයා මීගමුවෙන් නගින්න"
+  },
+  {
+    "id": "Neg_Fun_0010",
+    "input": "Ayubowan, Obata suba udasanak!",
+    "expected": "ආයුබෝවන්, ඔබට සුබ උදෑසනක්!"
+  },
+  {
+    "id": "Neg_Fun_0011",
+    "input": "Dan welawa kiyadha?",
+    "expected": "දැන් වෙලාව කීයද?"
+  },
+  {
+    "id": "Neg_Fun_0012",
+    "input": "Final presentation ekata kalin api thava ekapaarak meet vemu.",
+    "expected": "Final presentation එකට කලින් අපි තව එකපාරක් meet වෙමු."
+  }
+]
