@@ -18,4 +18,4 @@ IT23146488 - D.C.P.Viduka Pattikiriarachchi
         npx playwright show-report
 
 3. To run all tests in headed mode (To see the browser)
-        npx playwright test --headed#
+        npx playwright test --headed
