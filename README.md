@@ -3,6 +3,8 @@
 # Student ID
 IT23146488 - D.C.P.Viduka Pattikiriarachchi
 
+# Project Description
+Automated testing for Singlish to Sinhala conversion on Swift Translator using Playwright
 
 # Installation
 1. Clone the repository or extract the folder.
